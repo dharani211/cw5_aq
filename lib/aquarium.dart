@@ -250,7 +250,7 @@ class _AquariumScreenState extends State<AquariumScreen>
                 child: Padding(
                   padding: const EdgeInsets.all(10.0),
                   child: Text(
-                    'Abhiram Gelle\nPanther ID: 002843022',
+                    'Dharani Mandla',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 16,
